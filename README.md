@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Furkanyolcu/Furkanyolcu/output/github-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 <h3 align="center">Bilgi işlem ve teknolojik alanlarda etkili çözümler geliştirmek için analitik düşünme becerilerimi kullanıyorum. Modelleme, algoritma geliştirme ve donanım konularındaki deneyimim, karmaşık problemlere stratejik ve yenilikçi yaklaşımlar sunmama yardımcı oluyor. Yazılım ve dijital sistemlere duyduğum ilgiyle, teknoloji tabanlı projelere katkı sağlamayı ve bu alandaki uzmanlığımı sürekli
 geliştirmeyi hedefliyorum.</h3>
