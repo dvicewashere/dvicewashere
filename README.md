@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=DviceTR&label=Profile%20views&color=0e75b6&style=flat" alt="DviceTR" height="28px" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=dvicewashere&label=Profile%20views&color=0e75b6&style=flat" alt="dvicewashere" height="28px" />
   Hi 👋, I'm Muhammed Harun ŞEKER
   <a href="mailto:muhammedharunseker@gmail.com" align="right">
 <img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" /></h1>
@@ -16,7 +16,7 @@
 <p align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DviceTR&theme=ligh" alt="DviceTR" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dvicewashere&theme=ligh" alt="dvicewashere" />
   </a>
 </p>
 <p align="center">
@@ -83,17 +83,17 @@ geliştirmeyi hedefliyorum.</h3>
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DviceTR&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvicewashere&theme=light" alt="GitHub Streak" />
 </p>
 <br>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DviceTR&show_icons=true&locale=en&theme=lightt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dvicewashere&show_icons=true&locale=en&theme=lightt" alt="GitHub Stats" />
 </p>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DviceTR&layout=compact&theme=light" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvicewashere&layout=compact&theme=light" alt="Top Langs" />
 </p>
 
