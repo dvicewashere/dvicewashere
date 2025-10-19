@@ -88,12 +88,6 @@ geliştirmeyi hedefliyorum.</h3>
 <br>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvicewashere&show_icons=true&locale=en&theme=lightt" alt="GitHub Stats" />
-</p>
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvicewashere&layout=compact&theme=light" alt="Top Langs" />
-</p>
+
 
