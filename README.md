@@ -78,13 +78,7 @@ geliştirmeyi hedefliyorum.</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
 </p>
-<br>
 
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvicewashere&theme=light" alt="GitHub Streak" />
-</p>
 <br>
 
 
