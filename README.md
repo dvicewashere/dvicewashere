@@ -17,8 +17,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-<h3 align="center">Bilgi işlem ve teknolojik alanlarda etkili çözümler geliştirmek için analitik düşünme becerilerimi kullanıyorum. Modelleme, algoritma geliştirme ve donanım konularındaki deneyimim, karmaşık problemlere stratejik ve yenilikçi yaklaşımlar sunmama yardımcı oluyor. Yazılım ve dijital sistemlere duyduğum ilgiyle, teknoloji tabanlı projelere katkı sağlamayı ve bu alandaki uzmanlığımı sürekli
-geliştirmeyi hedefliyorum.</h3>
+<h3 align="center">Matematiksel düşünme becerilerimi teknoloji, yazılım geliştirme ve siber güvenlik alanlarında etkili çözümler üretmek için kullanıyorum. Özellikle Cyber Threat Intelligence (CTI) alanında; tehdit aktörlerini, saldırı tekniklerini ve dijital izleri analiz ederek anlamlı ve aksiyona dönüştürülebilir çıktılar üretmeye odaklanıyorum.
+
+Açık kaynak istihbaratı (OSINT), tehdit araştırması, göstergelerin (IOC) analizi ve olayların arka planını inceleme konularında kendimi geliştirmeye devam ediyorum. Yazılım ve dijital sistemlere olan ilgimle birlikte, tehditleri sadece tespit eden değil; anlayan, ilişkilendiren ve stratejik olarak değerlendiren bir bakış açısı geliştirmeyi hedefliyorum..</h3>
 <br>
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
