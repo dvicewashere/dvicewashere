@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-<h3 align="center">Matematiksel düşünme becerilerimi teknoloji, yazılım geliştirme ve siber güvenlik alanlarında etkili çözümler üretmek için kullanıyorum. Özellikle CTI alanında; tehdit aktörlerini, saldırı tekniklerini ve dijital izleri analiz ederek anlamlı ve aksiyona dönüştürülebilir çıktılar üretmeye odaklanıyorum.
+<h3 align="center">Yazılım geliştirme, siber güvenlik, bilgisayar teknolojileri ve matematikle ilgileniyorum. Yeni şeyler öğrenmeyi, araştırmayı ve öğrendiklerimi projeler üzerinde uygulamayı seviyorum.
 
-OSINT, tehdit araştırması, göstergelerin (IOC) analizi ve olayların arka planını inceleme konularında kendimi geliştirmeye devam ediyorum. Yazılım ve dijital sistemlere olan ilgimle birlikte, tehditleri sadece tespit eden değil; anlayan, ilişkilendiren ve stratejik olarak değerlendiren bir bakış açısı geliştirmeyi hedefliyorum..</h3>
+Özellikle yazılım geliştirme, CTI, OSINT ve siber güvenlik alanlarında kendimi geliştirmeye devam ediyorum. Analitik düşünmeyi gerektiren problemlere çözüm üretmekten ve teknolojinin sürekli değişen dünyasını takip etmekten keyif alıyorum.</h3>
 <br>
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
